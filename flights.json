@@ -1,0 +1,42 @@
+[
+    {
+        "destination": "russia",
+        "departure_date": "12-03-2024",
+        "aircraft_type": "e33"
+    },
+    {
+        "destination": "россия",
+        "departure_date": "12-03-2024",
+        "aircraft_type": "а23"
+    },
+    {
+        "destination": "джараян арег",
+        "departure_date": "2090",
+        "aircraft_type": "sd4"
+    },
+    {
+        "destination": "джараянорролжэж арег",
+        "departure_date": "2090",
+        "aircraft_type": "sd4"
+    },
+    {
+        "destination": "джараянорролжэж арег",
+        "departure_date": "2090",
+        "aircraft_type": "sd4"
+    },
+    {
+        "destination": "ириоио",
+        "departure_date": "2090",
+        "aircraft_type": "sd4"
+    },
+    {
+        "destination": "ириоио",
+        "departure_date": "2090",
+        "aircraft_type": "sd4"
+    },
+    {
+        "destination": "ириоио",
+        "departure_date": "34567890",
+        "aircraft_type": "sd4"
+    }
+]
